@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dialog_title">エラー！</string>
+    <string name="dialog_message">これは非常に長いテキストです。これをスクロールして読むことができます。さらに、フォントサイズを変更するオプションも提供します。</string>
+    <string name="button_text">ダイアログを表示</string>
+    <string name="ok">OK</string>
+    <string name="increase_font">フォントサイズを大きく</string>
+    <string name="decrease_font">フォントサイズを小さく</string>
+</resources>
